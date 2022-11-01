@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273a46bb4049c09ebc62392c9a4",
+        "artistName": "Tarkan",
+        "albumsName": "Yap bi güzellik",
+        "time": "3:00"
+    },
+    {
+        "id": 2,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2731069678d5c8f09e0f5272f33",
+        "artistName": "Bengü",
+        "albumsName": "Kimse Bilmesin",
+        "time": "3:00"
+    },
+    {
+        "id": 3,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2739e408938faeb5e67bdbbcf3d",
+        "artistName": "Tan Taşçı",
+        "albumsName": "Gayrı",
+        "time": "3:00"
+    },
+    {
+        "id": 4,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b27324f52a21fa44ce7c67586892",
+        "artistName": "Melike Şahin",
+        "albumsName": "Nasır",
+        "time": "3:00"
+    },
+    {
+        "id": 5,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273d7189564e1333a8d60b07921",
+        "artistName": "Köfn",
+        "albumsName": "Bi' Tek Ben Anlarım",
+        "time": "3:00"
+    },
+    {
+        "id": 6,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d00001e02c84f59124c23df6ca1b43fbd",
+        "artistName": "Mabel Matiz",
+        "albumsName": "Fan",
+        "time": "3:00"
+    },
+    {
+        "id": 7,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273194cb40ccf13dc04522784d5",
+        "artistName": "Murat Boz",
+        "albumsName": "Özledim",
+        "time": "3:00"
+    },
+    {
+        "id": 8,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273fbdcf128bb26268e19d1beb2",
+        "artistName": "Hakan Altun",
+        "albumsName": "Aşk Bahçemsin",
+        "time": "3:00"
+    },
+    {
+        "id": 9,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273042e5a752e224784901f38a9",
+        "artistName": "Yıldız Tilbe",
+        "albumsName": "Şivesi Sensin Aşkın",
+        "time": "3:00"
+    },
+    {
+        "id": 10,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273c5dc31732d4696e232cbbf79",
+        "artistName": "Ferhat Göçer",
+        "albumsName": "Üzüm",
+        "time": "3:00"
+    },
+    {
+        "id": 11,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273f9d2490b013d0fbf30f0af63",
+        "artistName": "Zakkum",
+        "albumsName": "Seni Rasgale Sevmedim",
+        "time": "3:00"
+    },
+    {
+        "id": 12,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2738af90cc582f43c3a9589e81b",
+        "artistName": "Kolpa&Yaprak Çamlıca",
+        "albumsName": "Unutmadım",
+        "time": "3:00"
+    },
+    {
+        "id": 13,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273d872518c4a0f1a2801fdb6c9",
+        "artistName": "Bahadır Sağlam",
+        "albumsName": "Gidiyor Gibiyim",
+        "time": "3:00"
+    },
+    {
+        "id": 14,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273fc589aba546107329ad69c3b",
+        "artistName": "Kolpa",
+        "albumsName": "Gurur Benim Neyime",
+        "time": "3:00"
+    },
+    {
+        "id": 15,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273390dac2528e964822cbe1151",
+        "artistName": "Kurtuluş Kuş & Burak Bulut",
+        "albumsName": "Gönül Meyhanesi",
+        "time": "3:00"
+    }
+]

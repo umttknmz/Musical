@@ -1,0 +1,89 @@
+.box {
+    padding-bottom: 8em;
+}
+
+.boxGenerator {
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.45);
+    -webkit-box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.45);
+    -moz-box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.45);
+    width: auto;
+    height: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: #F6F5FB;
+    margin-right: 20px;
+}
+
+.block {
+    margin-right: 60px;
+    font-weight: bold;
+    width: -webkit-fill-available;
+    /*chrome da aktif oluyor */
+    width: -moz-available;
+    /*mozilla da aktif oluyor*/
+}
+
+.blockFav {
+    margin-right: 60px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.radioFav {
+    color: #000;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+
+.radioFav:hover {
+    transition: all 0.5s;
+    color: #4E49B0;
+}
+
+.boxG {
+    align-items: center;
+    margin: 0;
+    padding: 8px;
+    justify-content: center;
+}
+
+.imageR {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 15px;
+    transition: all 1.5s!important;
+
+}
+
+.btnPlay {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #4E49B0;
+    opacity: 0.7;
+    cursor: pointer;
+    transition: all 0.7s;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.btnPlay:hover {
+    opacity: 1;
+    transition: all 0.7s;
+}
+
+.albumPlay {
+    color: #fff;
+    font-size: 30px;
+}
+
+.blockRadio {
+    text-align: center;
+}
+
+.boxGenerator:hover>.boxG>div>img {
+    /* transform: rotate(-20deg); */
+    transform: scale(2,2);
+    transition: all 1s;
+}

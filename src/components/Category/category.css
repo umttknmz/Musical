@@ -1,0 +1,124 @@
+.category{
+    padding-bottom: 6em;
+}
+.imageContent {
+    width: 25% !important;
+    height: 20em;
+    background-color: #f6f5fb;
+}
+
+.imageContent {
+    display: table;
+}
+
+.imageGif {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.imgAlbumCategory {
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+}
+
+.accountImageCategory {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.trFocus:hover>td>div>img {
+    border-radius: 0px;
+    transform: scale(2, 2);
+    transition: all 1s;
+}
+
+.playlistNameCategory {
+    display: grid;
+}
+
+.categoryContent {
+    width: 100%;
+    background-color: #f6f5fb;
+}
+
+.categoryTitle {
+    width: 100%;
+    /* background-color: blueviolet; */
+}
+
+.subCategory {
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+.cBox {
+    align-items: center;
+    margin-left: -10px;
+}
+
+/* .musicContent {
+    background-color: beige;
+} */
+
+.bCateAlbum {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 8px;
+    justify-content: center;
+}
+
+.albumsCBlock {
+    width: -webkit-fill-available;
+    /*chrome da aktif oluyor */
+    width: -moz-available;
+    /*mozilla da aktif oluyor*/
+    margin-right: 60px;
+}
+
+.btnCategoryPlay {
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    background-color: #4E49B0 !important;
+    opacity: 0.7 !important;
+    cursor: pointer !important;
+    transition: all 0.7s !important;
+    margin: auto;
+}
+
+.btnCategoryPlay:hover {
+    opacity: 1 !important;
+    transition: all 0.7s !important;
+}
+
+.categoryAlbumPlay {
+    color: #fff;
+    font-size: 30px;
+    margin: 10px;
+    padding-left: 5px;
+}
+
+.aImage {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: all 1.5s;
+}
+
+.otherC {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.centerC {
+    vertical-align: middle;
+    text-align: center;
+}

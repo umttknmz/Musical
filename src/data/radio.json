@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "logo": "https://images.radiovolna.net/_files/images/stations/423550/2cdd3f2aa9fad448801da339c7635371.png",
+        "radioName": "Damla FM",
+        "radioConnet": "Dini",
+        "radioTime": "87.6"
+    },
+    {
+        "id": 2,
+        "logo": "https://radyodi.com/wp-content/uploads/2020/01/berat-fm.png",
+        "radioName": "Berat FM",
+        "radioConnet": "Dini",
+        "radioTime": "87.8"
+    },
+    {
+        "id": 3,
+        "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-slow-turk.jpg",
+        "radioName": "Slow Pop FM",
+        "radioConnet": "Pop",
+        "radioTime": "89.0"
+    },
+    {
+        "id": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Radyo_3_logo.svg/1200px-TRT_Radyo_3_logo.svg.png",
+        "radioName": "TRT Radyo 3",
+        "radioConnet": "Genel",
+        "radioTime": "88.2"
+    },
+    {
+        "id": 5,
+        "logo": "https://mediacdns.karnaval.com/media/station_media/15/logos/meta_image.png?v=300919030637",
+        "radioName": "Virgin Radio",
+        "radioConnet": "Yabancı",
+        "radioTime": "106.2"
+    },
+    {
+        "id": 6,
+        "logo": "https://cdn-radiotime-logos.tunein.com/s6757g.png",
+        "radioName": "İstanbul FM",
+        "radioConnet": "Pop",
+        "radioTime": "88.6"
+    },
+    {
+        "id": 7,
+        "logo": "https://ia.tmgrup.com.tr/ed7f79/240/240/0/0/565/566?u=https://i.tmgrup.com.tr/724dinle/2021/02/09/1612852147631.jpg",
+        "radioName": "A Haber Radyo",
+        "radioConnet": "Haber",
+        "radioTime": "88.8"
+    },
+    {
+        "id": 8,
+        "logo": "https://mediacdns.karnaval.com/media/station_media/4/logos/meta_image.png?v=180520022614",
+        "radioName": "JoyTurk FM",
+        "radioConnet": "Akustik",
+        "radioTime": "89.0"
+    },
+    {
+        "id": 9,
+        "logo": "https://yt3.ggpht.com/ytc/AMLnZu_bn6eEuYgNVlclqlIg1Uoa9f6vj9AMEbI8Aww1ew=s900-c-k-c0x00ffffff-no-rj",
+        "radioName": "Alem FM",
+        "radioConnet": "Genel",
+        "radioTime": "89.2"
+    },
+    {
+        "id": 10,
+        "logo": "https://pbs.twimg.com/profile_images/1552303792078688256/N9C4ZKLA_400x400.jpg",
+        "radioName": "CRI Türk FM",
+        "radioConnet": "Genel",
+        "radioTime": "89.4"
+    },
+    {
+        "id": 11,
+        "logo": "https://kafaradyo.com/images/logo.png",
+        "radioName": "Kafa Radyo",
+        "radioConnet": "Genel",
+        "radioTime": "89.6"
+    },
+    {
+        "id": 12,
+        "logo": "https://radyohomestatic.imgix.net/media/station/48/logo_square.png?v=261119010318&auto=format&bg=000",
+        "radioName": "Show Radyo",
+        "radioConnet": "Genel",
+        "radioTime": "89.8"
+    },
+    {
+        "id": 13,
+        "logo": "https://i.scdn.co/image/ab67616d00001e022e21abf57e13642258b84074",
+        "radioName": "Radyo Viva",
+        "radioConnet": "Genel",
+        "radioTime": "90.0"
+    },
+    {
+        "id": 14,
+        "logo": "https://i.scdn.co/image/ab6765630000ba8a1226bc01c4fd2b4b95db13dc",
+        "radioName": "HaberTürk Radyo",
+        "radioConnet": "Haber",
+        "radioTime": "90.4"
+    },
+    {
+        "id": 15,
+        "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-2000-dinle.jpg",
+        "radioName": "Radyo 2000",
+        "radioConnet": "Arabeks",
+        "radioTime": "90.6"
+    },
+    {
+        "id": 16,
+        "logo": "https://mediacdns.karnaval.com/media/station_media/1/logos/meta_image.png?v=011215124715",
+        "radioName": "Süper FM",
+        "radioConnet": "Pop",
+        "radioTime": "90.8"
+    },
+    {
+        "id": 17,
+        "logo": "https://www.radyoalaturka.com.tr/img/logo.png",
+        "radioName": "Radyo Alaturka",
+        "radioConnet": "Genel",
+        "radioTime": "91.0"
+    },
+    {
+        "id": 18,
+        "logo": "https://www.radyo45lik.com/wp-content/uploads/2022/04/radyo-45lik-logo1aa-768x4881-1.png",
+        "radioName": "Radyo 45'lik",
+        "radioConnet": "Arabeks",
+        "radioTime": "91.2"
+    },
+    {
+        "id": 19,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/640px-TRT_FM_logo.svg.png",
+        "radioName": "TRT FM",
+        "radioConnet": "Genel",
+        "radioTime": "91.4"
+    },
+    {
+        "id": 20,
+        "logo": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
+        "radioName": "Kral FM",
+        "radioConnet": "Arabeks",
+        "radioTime": "92.0"
+    },
+    {
+        "id": 21,
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/a/ac/Lig_Radyo_logo.png",
+        "radioName": "Lig Radyo",
+        "radioConnet": "Spor",
+        "radioTime": "92.4"
+    },
+    {
+        "id": 22,
+        "logo": "https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png?v=231118104230",
+        "radioName": "Metro FM",
+        "radioConnet": "Yabancı",
+        "radioTime": "97.2"
+    },
+    {
+        "id": 23,
+        "logo": "https://cdn-profiles.tunein.com/s82382/images/logog.jpg?t=153236",
+        "radioName": "Number1 Türk FM",
+        "radioConnet": "Pop",
+        "radioTime": "98.6"
+    },
+    {
+        "id": 24,
+        "logo": "https://pbs.twimg.com/profile_images/1180025697521295360/iqMxVc2a_400x400.png",
+        "radioName": "Best FM",
+        "radioConnet": "Genel",
+        "radioTime": "98.4"
+    },
+    {
+        "id": 25,
+        "logo": "https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=642",
+        "radioName": "PowerTürk FM",
+        "radioConnet": "Pop",
+        "radioTime": "99.8"
+    },
+    {
+        "id": 26,
+        "logo": "https://cdn.powergroup.com.tr/powerapp/channels/big/powerFM.png?v=642",
+        "radioName": "Power FM",
+        "radioConnet": "Yabancı",
+        "radioTime": "100.0"
+    },
+    {
+        "id": 27,
+        "logo": "https://pbs.twimg.com/profile_images/1264919624900108291/35OjHytX_400x400.png",
+        "radioName": "Kral Pop Radyo",
+        "radioConnet": "Pop",
+        "radioTime": "94.8"
+    },
+    {
+        "id": 28,
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/5/51/Pal_Station_logo.png",
+        "radioName": "Pal Station",
+        "radioConnet": "Yabancı",
+        "radioTime": "106.0"
+    }
+]

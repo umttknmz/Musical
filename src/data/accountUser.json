@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "profilePhoto": "https://cdn-icons-png.flaticon.com/512/5590/5590802.png",
+        "username": "umit.tukenmez",
+        "name": "Ümit",
+        "surname": "Tükenmez",
+        "mail": "test_music@gmail.com",
+        "password": "123456789",
+        "country": "Türkiye",
+        "province": "İstanbul",
+        "town": "Gaziosmanpaşa",
+        "job": "Front-End Developer",
+        "phone": "0123 456 78 90",
+        "licance": "Ücretsiz"
+    }
+]

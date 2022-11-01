@@ -1,0 +1,62 @@
+.albums {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
+.aBox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.AlbumsBox {
+    position: relative;
+    width: 250px !important;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: #f6f5fb;
+}
+
+.AlbumsBox:hover>div>div>img {
+    margin: 0;
+    transition: all 0.9s!important;
+    -moz-transform: scale(1.1) rotate(-711deg);
+    -webkit-transform: scale(1.1) rotate(-711deg);
+    -o-transform: scale(1.1) rotate(-711deg);
+    -ms-transform: scale(1.1) rotate(-711deg);
+    transform: scale(1.1) rotate(-711deg);
+    z-index: -1;
+}
+
+.AlbumsBox:hover>div>div>p {
+    z-index: 999999999;
+}
+
+.albumsImage {
+    width: 200px;
+    height: auto;
+    margin-top: 15px;
+    transition: all 1s;
+}
+
+/* .albumsImage:hover {
+    transition: all 0.5s;
+    margin: 0;
+} */
+
+.titleA {
+    font-weight: 600;
+    font-size: 20px;
+    color: #4c4cac;
+    z-index: 9999999;
+    margin-top: 5px;
+}

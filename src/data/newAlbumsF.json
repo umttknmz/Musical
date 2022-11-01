@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "imageAlbums": "https://i1.sndcdn.com/artworks-RmL6yHc7BEd8kcqo-javbXg-t500x500.jpg",
+        "artistName": "CryJaxx feat. Junior Charles",
+        "albumsName": "Candy Shop"
+    },
+    {
+        "id": 2,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d00001e0250583b6639fa3e0a00e85ab1",
+        "artistName": "T3NZU",
+        "albumsName": "Drive Forever"
+    },
+    {
+        "id": 3,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2736944420b7a2a0e966ccad292",
+        "artistName": "DVRST",
+        "albumsName": "Close Eyes - Slowed + Reverb"
+    },
+    {
+        "id": 4,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b27367ec29fed426b2ebe053f064",
+        "artistName": "Mau P",
+        "albumsName": "Drugs From Amsterdam"
+    },
+    {
+        "id": 5,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2736e26fb30fe09ddbaec18fb2f",
+        "artistName": "Dj Kralicek",
+        "albumsName": "Ass Like"
+    },
+    {
+        "id": 6,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2738c46036a54ce24703da097cc",
+        "artistName": "Sleepy Chows - Antomage - Bromage",
+        "albumsName": "Step by Step"
+    },
+    {
+        "id": 7,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273ce38380cc54cc4d73e39c123",
+        "artistName": "TRFN",
+        "albumsName": "Milkshake"
+    },
+    {
+        "id": 8,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273922a7339d969b5f0262580f5",
+        "artistName": "J Balvin - Skrillex",
+        "albumsName": "In Da Getto"
+    },
+    {
+        "id": 9,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b27371343c9c713b856b9e8035ad",
+        "artistName": "Zafrir - Afrojack",
+        "albumsName": "Boom Boom Pow"
+    },
+    {
+        "id": 10,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273c5503a9698eccb804d6d2849",
+        "artistName": "Sandro Silva,Quintino",
+        "albumsName": "Epic-Garmiani Remix"
+    },
+    {
+        "id": 11,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2730e7ccc259cfed72db8ab2959",
+        "artistName": "Zafrir",
+        "albumsName": "Lonely Wolf"
+    },
+    {
+        "id": 12,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b27333250b4a0bd24152abf8f7dd",
+        "artistName": "Vion Konger",
+        "albumsName": "Sweat"
+    },
+    {
+        "id": 13,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2732d564195ed3dd7b70d64862c",
+        "artistName": "Sean Paul - Dua Lipa",
+        "albumsName": "No Lie"
+    },
+    {
+        "id": 14,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b2732196600e7c6fbf3babc39c2e",
+        "artistName": "Nora & Chris, Drenchill",
+        "albumsName": "Remedy"
+    },
+    {
+        "id": 15,
+        "imageAlbums": "https://i.scdn.co/image/ab67616d0000b273457450cddf83067fdbcb021c",
+        "artistName": "Gazan ",
+        "albumsName": "Cуетолог"
+    }
+]

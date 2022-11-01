@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "albumImage": "https://cdn-icons-png.flaticon.com/512/3208/3208679.png",
+        "albumName": "Yabancı Mix"
+    },
+    {
+        "id": 2,
+        "albumImage": "https://cdn-icons-png.flaticon.com/512/3208/3208679.png",
+        "albumName": "Türkçe Mix"
+    },
+    {
+        "id": 3,
+        "albumImage": "https://cdn-icons-png.flaticon.com/512/3208/3208679.png",
+        "albumName": "Yabancı & Türkçe Mix"
+    }
+]

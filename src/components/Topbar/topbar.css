@@ -1,0 +1,58 @@
+.topbar {
+    display: flex;
+    /* position: fixed; */
+    /* justify-content: space-between; */
+    width: 100%!important;
+    height: 70px;
+    align-items: center;
+    box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75);
+}
+
+.buttonsSettings{
+    position: absolute;
+    right: 0;
+}
+
+.leftContent {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.icons {
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+    color: #000;
+}
+.icons:hover{
+    color: #4B49AE;
+}
+.icoRight {
+    margin-right: 50px;
+}
+
+.icoBag {
+    position: absolute;
+    top: 0;
+    background-color: #FB7E8C;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    right: 124px;
+}
+
+.inputText {
+    margin-left: 10px !important;
+    margin-top: 15px !important;
+    width: 400px !important;
+    border-radius: 50px !important;
+    background-color: #F6F5FB;
+}
+
+.icoNotification {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,77 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.sdBarSmall {
+    background: rgb(76, 76, 172);
+    background: linear-gradient(180deg, rgba(76, 76, 172, 1) 70%, rgba(36, 33, 88, 1) 100%);
+    width: 4em;
+    height: 100%;
+    position: fixed;
+}
+
+.sidebar {
+    height: 100%;
+    width: 300px !important;
+    color: #fff !important;
+}
+
+.sdBar {
+    width: 324px;
+    height: 100vh;
+    position: fixed;
+    background: rgb(76, 76, 172);
+    background: linear-gradient(180deg, rgba(76, 76, 172, 1) 70%, rgba(36, 33, 88, 1) 100%);
+    /* background-color: #4C4CAC !important; */
+    color: #fff !important;
+    z-index: 99999999;
+    overflow: scroll;
+}
+
+.btnSmallSidebar {
+    margin: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.btnSmallSidebar:hover {
+    width: auto;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #DDD9F0;
+    transition: all 0.5s;
+    padding: 1px;
+}
+
+.btnSidebar {
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    transition: all 0.5s;
+
+}
+
+.btnSidebar:hover {
+    width: auto;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #DDD9F0;
+    transition: all 0.5s;
+}
+
+.iconSet {
+    margin-right: 10px;
+}
+
+.icoNav {
+    color: #fff !important;
+    font-size: 30px;
+    vertical-align: middle !important;
+}
+
+.sdBar>a {
+    text-align: center;
+}

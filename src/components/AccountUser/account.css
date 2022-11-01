@@ -1,0 +1,227 @@
+.account {
+    /* box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75); */
+    /* height: calc(100vh - 50vh); */
+    width: 100%;
+    height: auto;
+    background-color: #F6F5FB;
+
+}
+
+.leftProfile {
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+}
+
+.rightProfile {
+    width: 100%;
+}
+
+.lisanceAccount>span {
+    width: auto;
+    background-color: #FF7D8D;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 15px;
+    float: left !important;
+
+}
+
+.pPhotoAccount>img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 5px solid #4c4cac;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.accountName {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+.accountCountry {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -20px;
+    color: #6c757d;
+}
+
+.accountProvince {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: -20px;
+    color: #6c757d;
+}
+
+.contentUserImage {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px !important;
+    color: #000;
+    background-color: #4c4cac;
+    align-items: center;
+    color: #fff;
+}
+
+.f {
+    margin-top: 12px;
+}
+
+.m {
+    margin-top: 12px;
+}
+
+.h {
+    margin-top: 12px;
+}
+/* .contentUserNumber{
+    background-color: #6c757d;
+    margin: auto;
+} */
+.statusContent {
+    margin: auto;
+    /* align-items: center; */
+    /* justify-content: center; */
+    flex-direction: row-reverse;
+}
+.leftContentProfile{
+    width: 50%;
+    margin: 3px 5px;
+}
+.rightContentProfile{
+    width: 50%;
+    margin: 3px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .groupInfo {
+    width: 250px;
+    height: auto;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.d1{
+    display: flex;
+    justify-content: space-between!important;
+}
+
+.cate {
+    justify-content: space-between !important;
+}
+
+.user {
+    margin: auto;
+}
+
+.city {
+    margin: auto;
+}
+
+.pp {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 10px auto !important;
+}
+
+.accountStatu {
+    width: auto;
+    height: 35px;
+    text-align: center;
+    cursor: default;
+    border-radius: 15px;
+    background-color: #FF7D8D;
+    padding-top: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+
+.iconBack {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px !important;
+    color: #000;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.iconBack.friends {
+    background-color: rgb(128, 72, 128);
+}
+
+.iconBack.like {
+    background-color: rgb(243, 134, 134);
+}
+
+.iconBack.playlist {
+    background-color: rgb(59, 104, 59);
+}
+
+.groupTitle {
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.contentFolder {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 1px solid #EFEEF3;
+    background-color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.imageFolder {
+    width: 58px;
+    height: 47px;
+    background-image: url('../../assets/img/folder.png');
+    margin: auto;
+}
+
+.folderTitle {
+    text-align: center;
+}
+
+.buttonFolder {
+    margin: auto;
+    text-align: center;
+    vertical-align: middle !important;
+    line-height: 38px;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #4C44B2;
+    color: #fff;
+    cursor: pointer;
+} */
